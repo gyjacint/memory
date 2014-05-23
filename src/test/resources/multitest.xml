@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<players>
+	<player>
+		<name>Jácint</name>
+		<wins>7</wins>
+		<ties>2</ties>
+		<loses>0</loses>
+	</player>
+	<player>
+		<name>Jácint</name>
+		<wins>8</wins>
+		<ties>2</ties>
+		<loses>0</loses>
+	</player>
+	<player>
+		<name>Vivien</name>
+		<wins>1</wins>
+		<ties>0</ties>
+		<loses>5</loses>
+	</player>
+	<player>
+		<name>Marci</name>
+		<wins>0</wins>
+		<ties>0</ties>
+		<loses>1</loses>
+	</player>
+</players>

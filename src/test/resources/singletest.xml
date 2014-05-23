@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<players>
+	<player>
+		<name>Peti</name>
+		<moves>15</moves>
+		<pairs>8</pairs>
+	</player>
+	<player>
+		<name>Peti</name>
+		<moves>10</moves>
+		<pairs>8</pairs>
+	</player>
+	<player>
+		<name>Jónás Vivien</name>
+		<moves>14</moves>
+		<pairs>8</pairs>
+	</player>
+	<player>
+		<name>Jácint</name>
+		<moves>8</moves>
+		<pairs>8</pairs>
+	</player>
+	<player>
+		<name>Jácint</name>
+		<moves>10</moves>
+		<pairs>8</pairs>
+	</player>
+	<player>
+		<name>Béla</name>
+		<moves>10b</moves>
+		<pairs>8</pairs>
+	</player>
+	<player>
+		<name>Béla</name>
+		<moves>10b</moves>
+		<pairs>8</pairs>
+	</player>
+</players>
