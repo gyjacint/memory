@@ -49,14 +49,14 @@ public class XMLMultiStatHandler {
 		
 		try{
 			File xmlFile;
-			if (fileName.equals("multitest.xml")) {
-				URL url = XMLMultiStatHandlerTest.class.getClassLoader().getResource(fileName);
-				xmlFile = new File(url.getPath());
-			} else {
+//			if (fileName.equals("multitest.xml")) {
+//				URL url = XMLMultiStatHandlerTest.class.getClassLoader().getResource(fileName);
+//				xmlFile = new File(url.getPath());
+//			} else {
 				String home = System.getProperty("user.home");
 				File mappa = new File(home, ".memorygame");
 				xmlFile = new File(mappa, fileName);
-			}
+//			}
 			
 			DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
 			DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
